@@ -1,6 +1,7 @@
 *,
 *::before,
 *::after {
+  text-align: center;
   box-sizing: border-box;
 }
 

@@ -7,8 +7,17 @@ This password generator should allow users to input requirements for criteria th
 ## Usage
 Sometimes thinking of passwords that are so strictly regualted with multiple requirements can be SO difficult! This password generator will take whatever requirements are selected by the user and help generate a password that will meet each of those selections!
 
-## Credit
+    The requirements for this are as follows
+    - Character length 8-128
+    - Choose whether you want:
+        - Special Characters
+        - Numbers
+        - Upper case letters
+        - Lower case letters
 
+## Credit
+Foolish Developer: https://dev.to/code_mystery
+    - https://dev.to/code_mystery/random-password-generator-using-javascript-6a
 
 ## License
 MIT License (see repo)

@@ -1,5 +1,5 @@
 # Password Generator
-link:  
+link:  https://idjjurado.github.io/Password-generator/
 
 ## Description
 This password generator should allow users to input requirements for criteria that will populate a functional password to use
